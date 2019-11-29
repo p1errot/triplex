@@ -7,7 +7,6 @@ Open the console and write `g++ triplex.cpp -o triplex && ./triplex`
 
 
 ## About
-Written with [Unreal Coding Standard]
-(https://docs.unrealengine.com/en-US/Programming/Development/CodingStandard/index.html)
+Written with [Unreal Coding Standard](https://docs.unrealengine.com/en-US/Programming/Development/CodingStandard/index.html)
 
 
